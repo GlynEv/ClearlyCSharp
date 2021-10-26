@@ -1,0 +1,12 @@
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.exe
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.deps.json
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.runtimeconfig.json
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.runtimeconfig.dev.json
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.dll
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\bin\Debug\netcoreapp3.1\ConsoleApp05.pdb
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.AssemblyInfoInputs.cache
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.AssemblyInfo.cs
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.csproj.CoreCompileInputs.cache
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.dll
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.pdb
+P:\Projects\TutzProjectFiles2021\BasicCSharpClearly\ClearlyCSharp\ConsoleApp05\obj\Debug\netcoreapp3.1\ConsoleApp05.genruntimeconfig.cache
